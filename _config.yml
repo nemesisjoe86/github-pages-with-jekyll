@@ -1,3 +1,4 @@
+Minima:
 title: nemesisjoe86
 author: Nemesisjoe86
 email: josephwarren8613@gmail.com
@@ -5,12 +6,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-I really don't know what to do about this one because I think it's important to do that in the shower 
-
+I really don't know what to do about this one because I think it's important to do that in the shower
+ 
+Minima:
 # social links
 twitter_username: NemyJoe04
 github_username:  Nemesisjoe86
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima.
